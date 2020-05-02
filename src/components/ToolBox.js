@@ -8,6 +8,9 @@ let Tools = [
 ];
 class ToolBox extends Component {
     render() {
+
+        console.log("Loading the tools")
+
         return (
             <div className="toolbox">
                 <div className="card card-default">

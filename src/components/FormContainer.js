@@ -63,6 +63,7 @@ class FormContainer extends Component {
     }
 
     render() {
+        console.log("Loading form container")
         return (
             <div className='toolbox' ref={(c) => this._toolBoxContainer = c}>
                 {
