@@ -4,16 +4,6 @@ let Tools = [
         title : 'Single Field',
         name : 'SINGLE_FIELD',
         icon : 'fa fa-wpforms'
-    },
-    {
-        title : 'Drop Down',
-        name : 'SELECT_FIELD',
-        icon : 'fa fa-chevron-circle-down'
-    },
-    {
-        title : 'Check Boxes',
-        name : 'CHECK_BOXES',
-        icon : 'fa fa-check-square'
     }
 ];
 class ToolBox extends Component {
